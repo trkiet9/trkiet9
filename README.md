@@ -1,7 +1,9 @@
-### Hi there 👋
+# Welcome to my Profile, call me Trần Như Anh Kiệt.
+* #### 🎓 Student in [Information Technology](fit.hcmus.edu.vn/vn/Default.aspx?tabid=325) at the [University of Science](https://www.hcmus.edu.vn/), VNUHCM.
+* #### 🎂 Birthday: 15/11/2004
 
 <!--
-**trkiet9/trkiet9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**trkiet9/trkiet9S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
